@@ -8,8 +8,13 @@
 	text-align:center;
 }
 
+.lft{
+	text-align:left;
+}
+
 .button-color{
 	background-color:#2ecc71;
+	width:100%;
 }
 
 .auth-color{
